@@ -1,0 +1,7 @@
+{
+label = "Platform Fenced",
+shapes={
+  {0,0,0,16,12,16,texture="railcraft_cos:platform.generic"},
+  {0,12,14,2,16,16,texture="dcironchain:ashiba_side"},
+  {14,12,14,16,16,16,texture="dcironchain:ashiba_side"},
+}}

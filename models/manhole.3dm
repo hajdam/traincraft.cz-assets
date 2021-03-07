@@ -1,0 +1,6 @@
+{
+label = "Openable Asphalt Manhole",
+shapes={
+  {0,13,0,16,16,16,texture="roadstuff:asphalt/asphaltManhole"},
+  {0,0,13,16,16,16,texture="roadstuff:asphalt/asphaltManhole",state=true},
+}}

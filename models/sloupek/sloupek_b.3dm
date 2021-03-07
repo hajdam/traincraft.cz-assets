@@ -1,0 +1,16 @@
+{
+label = "Směrový sloupek modrý",
+collidable = {true,true},
+shapes={
+  {6,0,6,10,9,9,texture="wool_colored_blue"},
+  {6,9,6,10,10,9,texture="wool_colored_black"},
+  {6,13,6,10,14,9,texture="wool_colored_black"},
+  {6,10,6,7,13,9,texture="wool_colored_black"},
+  {9,10,6,10,13,9,texture="wool_colored_black"},
+  {7,10,6,9,11,8,texture="wool_colored_orange"},
+  {7,11,6,9,12,8,texture="wool_colored_black"},
+  {7,12,6,9,13,8,texture="wool_colored_orange"},
+  {7,10,8,9,13,9,texture="iron_block"},
+  {6,14,6,10,15,9,texture="wool_colored_blue"},
+  {7,15,6,10,16,9,texture="wool_colored_blue"}
+}}

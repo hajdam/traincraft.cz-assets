@@ -1,0 +1,7 @@
+{
+label = "Pole for Fancy Sign",
+shapes={
+  {4,0,15,5,16,16,texture="roadstuff:sign/signPost"},
+  {11,0,15,12,16,16,texture="roadstuff:sign/signPost"},
+  {5,8,15,11,9,16,texture="roadstuff:sign/signPost"},
+}}
