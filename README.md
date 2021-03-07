@@ -1,7 +1,7 @@
-Asset files Traincraft.cz server
-================================
+Asset Files for Traincraft.cz Server
+====================================
 
-Various asset files for graphical and other uses for Traincraft.cz server.
+Various asset files for graphical and other uses for modded minecraft server Traincraft.cz.
 
 Server: http://traincraft.cz  
 
